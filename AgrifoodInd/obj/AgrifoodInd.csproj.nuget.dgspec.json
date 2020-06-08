@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\d_v_p\\Documents\\xapros\\AgrifoodInd\\AgrifoodInd.csproj": {}
+    "C:\\Users\\LAYNES\\Source\\Repos\\agrifoodind\\AgrifoodInd\\AgrifoodInd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\d_v_p\\Documents\\xapros\\AgrifoodInd\\AgrifoodInd.csproj": {
+    "C:\\Users\\LAYNES\\Source\\Repos\\agrifoodind\\AgrifoodInd\\AgrifoodInd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\d_v_p\\Documents\\xapros\\AgrifoodInd\\AgrifoodInd.csproj",
+        "projectUniqueName": "C:\\Users\\LAYNES\\Source\\Repos\\agrifoodind\\AgrifoodInd\\AgrifoodInd.csproj",
         "projectName": "AgrifoodInd",
-        "projectPath": "C:\\Users\\d_v_p\\Documents\\xapros\\AgrifoodInd\\AgrifoodInd.csproj",
-        "packagesPath": "C:\\Users\\d_v_p\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\d_v_p\\Documents\\xapros\\AgrifoodInd\\obj\\",
+        "projectPath": "C:\\Users\\LAYNES\\Source\\Repos\\agrifoodind\\AgrifoodInd\\AgrifoodInd.csproj",
+        "packagesPath": "C:\\Users\\LAYNES\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LAYNES\\Source\\Repos\\agrifoodind\\AgrifoodInd\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\d_v_p\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LAYNES\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

@@ -1,0 +1,13 @@
+C:\Users\LAYNES\Source\Repos\agrifoodind\AgrifoodInd\bin\Debug\netcoreapp3.1\AgrifoodInd.exe
+C:\Users\LAYNES\Source\Repos\agrifoodind\AgrifoodInd\bin\Debug\netcoreapp3.1\AgrifoodInd.deps.json
+C:\Users\LAYNES\Source\Repos\agrifoodind\AgrifoodInd\bin\Debug\netcoreapp3.1\AgrifoodInd.runtimeconfig.json
+C:\Users\LAYNES\Source\Repos\agrifoodind\AgrifoodInd\bin\Debug\netcoreapp3.1\AgrifoodInd.runtimeconfig.dev.json
+C:\Users\LAYNES\Source\Repos\agrifoodind\AgrifoodInd\bin\Debug\netcoreapp3.1\AgrifoodInd.dll
+C:\Users\LAYNES\Source\Repos\agrifoodind\AgrifoodInd\bin\Debug\netcoreapp3.1\AgrifoodInd.pdb
+C:\Users\LAYNES\Source\Repos\agrifoodind\AgrifoodInd\obj\Debug\netcoreapp3.1\AgrifoodInd.csprojAssemblyReference.cache
+C:\Users\LAYNES\Source\Repos\agrifoodind\AgrifoodInd\obj\Debug\netcoreapp3.1\AgrifoodInd.AssemblyInfoInputs.cache
+C:\Users\LAYNES\Source\Repos\agrifoodind\AgrifoodInd\obj\Debug\netcoreapp3.1\AgrifoodInd.AssemblyInfo.cs
+C:\Users\LAYNES\Source\Repos\agrifoodind\AgrifoodInd\obj\Debug\netcoreapp3.1\AgrifoodInd.csproj.CoreCompileInputs.cache
+C:\Users\LAYNES\Source\Repos\agrifoodind\AgrifoodInd\obj\Debug\netcoreapp3.1\AgrifoodInd.dll
+C:\Users\LAYNES\Source\Repos\agrifoodind\AgrifoodInd\obj\Debug\netcoreapp3.1\AgrifoodInd.pdb
+C:\Users\LAYNES\Source\Repos\agrifoodind\AgrifoodInd\obj\Debug\netcoreapp3.1\AgrifoodInd.genruntimeconfig.cache
