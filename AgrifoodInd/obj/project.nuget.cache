@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M45OgxnpGQtkyUX+QIMtVNOGHt1iOvFZugd+IdTgdERxbKf03bZn2Cv/QOM4SRYuokdLKbLguGSvIAjWXqJRbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\d_v_p\\Documents\\xapros\\AgrifoodInd\\AgrifoodInd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\d_v_p\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
